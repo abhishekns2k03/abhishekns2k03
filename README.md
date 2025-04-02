@@ -5,3 +5,6 @@
 - 🤞😄 Pronouns: he/him
 - ⚡ Fun fact: I suggest you to learn code , cause ... ✨ In recent days, researchers have found evidence suggesting that learning to code can enhance cognitive abilities, including problem-solving skills, in ways similar to learning a new language.✨
 
+- ---
+![Snake animation](https://github.com/abhishekns-2k03/abhishekns-2k03/blob/output/github-contribution-grid-snake.svg)
+
